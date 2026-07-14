@@ -1,0 +1,55 @@
+.hero {
+  text-align: center;
+  padding: 80px 20px;
+}
+
+.hero h1 {
+  font-size: 3rem;
+  margin-bottom: 20px;
+}
+
+.hero p {
+  font-size: 1.2rem;
+  max-width: 700px;
+  margin: auto;
+  margin-bottom: 30px;
+}
+
+.hero button {
+  padding: 12px 24px;
+
+  border: none;
+
+  background-color: #222;
+
+  color: white;
+
+  font-size: 1rem;
+
+  cursor: pointer;
+
+  border-radius: 5px;
+}
+
+
+/* Latest Blogs Section */
+
+.latest-blogs {
+  padding: 50px 20px;
+}
+
+.latest-blogs h2 {
+  text-align: center;
+
+  margin-bottom: 30px;
+}
+
+.blog-container {
+  display: flex;
+
+  justify-content: center;
+
+  gap: 20px;
+
+  flex-wrap: wrap;
+}

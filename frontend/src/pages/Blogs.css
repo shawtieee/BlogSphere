@@ -1,0 +1,32 @@
+.latest-blogs {
+  padding: 40px;
+  max-width: 1200px;
+  margin: auto;
+}
+
+.latest-blogs h1 {
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+.search-bar {
+  width: 60%;
+  display: block;
+  margin: 0 auto 30px;
+  padding: 12px 18px;
+  font-size: 18px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  outline: none;
+}
+
+.search-bar:focus {
+  border-color: #2563eb;
+}
+
+.blog-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 25px;
+}

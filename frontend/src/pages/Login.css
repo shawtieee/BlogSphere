@@ -1,0 +1,90 @@
+.login-container {
+  min-height: 80vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.login-box {
+  width: 400px;
+  background: white;
+  padding: 40px;
+  border-radius: 15px;
+  box-shadow: 0 5px 20px rgba(0, 0, 0, 0.1);
+  text-align: center;
+}
+
+.login-box h1 {
+  margin-bottom: 10px;
+  color: #222;
+}
+
+.login-box p {
+  color: gray;
+  margin-bottom: 25px;
+}
+
+.login-box input {
+  width: 100%;
+  padding: 15px;
+  margin-bottom: 20px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  font-size: 16px;
+  box-sizing: border-box;
+}
+
+.password-container {
+  position: relative;
+
+  width: 100%;
+}
+
+.password-container input {
+  width: 100%;
+  padding: 15px;
+  margin-bottom: 20px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  font-size: 16px;
+  box-sizing: border-box;
+}
+
+.eye-icon {
+  position: absolute;
+  right: 15px;
+  top: 18px;
+  cursor: pointer;
+  color: #222;  
+  font-size: 18px;
+}
+
+.login-box button {
+  width: 100%;
+  padding: 15px;
+  background: #222;
+  color: white;
+  border: none;
+  border-radius: 8px;
+  font-size: 18px;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+.login-box button:hover {
+  background: black;
+}
+
+.register-text {
+  margin-top: 20px;
+}
+
+.register-text span {
+  color: #222;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+.register-text span:hover {
+  text-decoration: underline;
+}
