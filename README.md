@@ -118,5 +118,5 @@ npm start
 **Sara Shrivastava**
 
 Connect with me:
-- 🔗LinkedIn: [linkedin.com/in/sarashrivastava](https://linkedin.com/in/sarashrivastava)
-- 💻 LeetCode: [leetcode.com/u/sanelysara](https://leetcode.com/u/sanelysara)
+- 🔗 LinkedIn: [Sara Shrivastava](https://linkedin.com/in/sarashrivastava)
+- 💻 LeetCode: [sanelysara](https://leetcode.com/u/sanelysara)
